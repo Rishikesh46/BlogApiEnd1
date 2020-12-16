@@ -3,4 +3,4 @@ Create a task
 Read all tasks
 Read a single task based on a taskId sent in a route parameter
 it can Update the status of task and also
-Delete a task
+delete a task
